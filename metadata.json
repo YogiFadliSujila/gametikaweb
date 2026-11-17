@@ -1,0 +1,5 @@
+{
+  "name": "gametika",
+  "description": "2D top-down pixel-art island exploration game featuring companion chain-following, interactive NPC recruitment, bridge collision layers, and a character info popup.",
+  "requestFramePermissions": []
+}

@@ -1,11 +1,19 @@
-<div align="center">
+# gametika (Web Port)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A 2D top-down pixel-art island exploration game ported from Godot 4 (`YogiFadliSujila/gametika`) to **React + TypeScript + HTML5 Canvas + Tailwind CSS** on Vite.
 
-  <h1>Built with AI Studio</h2>
+## Controls
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **WASD / Arrow Keys**: Move character
+- **E / Space** (or click nearby companion / HUD button): Toggle companion follow (`Ajak` / `Tunggu`)
+- **I / Right-Click Character** (or click party portrait in HUD): Open Character Info Popup (stats & abilities)
+- **Esc** or **Tutup**: Close popup
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Development
 
-</div>
+```bash
+npm install
+npm run dev
+```
+
+Runs on `http://0.0.0.0:3000`.
